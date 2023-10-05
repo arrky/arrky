@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/arrky/arrky/assets/81797775/2287580a-17e5-4fbf-8cc7-aecf79255429" width="23">
+### Hi there <img src="https://github.com/arrky/arrky/assets/81797775/a41fa9a9-5b4a-4f09-aaa5-8cfa16acac6c" width="23">
 
 <!--
 **arrky/arrky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
